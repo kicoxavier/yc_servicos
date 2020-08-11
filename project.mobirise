@@ -1,0 +1,125 @@
+{
+  "settings": {
+    "name": "Site-07-29_1957",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#000000",
+        "secondaryColor": "#c1c1c1",
+        "successColor": "#ffffff",
+        "infoColor": "#c1c1c1",
+        "warningColor": "#ffffff",
+        "dangerColor": "#c1c1c1",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.4",
+    "siteFonts": [],
+    "imageResize": true,
+    "uniqCompNum": 6,
+    "versionPublish": "4.12.4",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showLogo": true,
+            "showTitle": true,
+            "showText": true,
+            "showCountdown": false,
+            "showForm": true,
+            "showArrow": false,
+            "imageSize": "58",
+            "countdown": "2020/09/01",
+            "animText1": "O MOTORISTA",
+            "animText2": "A TELEFONISTA",
+            "animText3": "O PORTEIRO",
+            "typeSpeed": 60,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x855.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.8"
+          },
+          "title": "ENCONTRE&nbsp;",
+          "title2": "ENCONTRE SERVIÇOS PROFISSIONAIS!",
+          "text": "Nosso site está em construção! Em breve estaremos no ar para melhor atendê-lo. <br>Inscreva-se enviando seu e-mail e receba nosso Newsletter.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/yc-logo-branco-1400x768.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "et-line"
+            }
+          },
+          "form": {
+            "action": "kicoxavier@gmail.com",
+            "alerts": {
+              "success": "Seu cadastro foi efetuado com sucesso!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Seu e-mail"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader15",
+          "_anchor": "extHeader15-4",
+          "_styles": {
+            ".display-2": {
+              "font-size": "48px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
