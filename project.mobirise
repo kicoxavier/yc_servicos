@@ -48,7 +48,7 @@
             "showTitle": true,
             "showText": true,
             "showCountdown": false,
-            "showForm": true,
+            "showForm": false,
             "showArrow": false,
             "imageSize": "46",
             "countdown": "2020/09/01",
@@ -71,7 +71,7 @@
           },
           "title": "ENCONTRE&nbsp;",
           "title2": "ENCONTRE SERVIÇOS PROFISSIONAIS!",
-          "text": "Nosso site está em construção! Em breve estaremos no ar para melhor atendê-lo. <br>Inscreva-se enviando seu e-mail e receba nosso Newsletter.",
+          "text": "Nosso site está em construção! Em breve estaremos no ar para melhor atendê-lo.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
             "image": {
