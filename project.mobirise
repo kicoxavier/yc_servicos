@@ -20,7 +20,10 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#dcaf0b",
+        "#ebbd18"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.4",
@@ -70,13 +73,13 @@
           },
           "title": "ENCONTRE&nbsp;",
           "title2": "ENCONTRE SERVIÇOS PROFISSIONAIS!",
-          "text": "Nosso site está em construção! Em breve estaremos no ar para melhor atendê-lo. <br>",
+          "text": "<span style=\"font-style: normal;\"><b>(51) 99728-2050 &nbsp;| &nbsp;ycserviçosltda@gmail.com</b></span>&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/yc-logo-branco-1400x768.png",
+              "src": "@PROJECT_PATH@/assets/images/yc-logo-site-1400x780.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -115,7 +118,16 @@
           "_anchor": "extHeader15-4",
           "_styles": {
             ".display-2": {
-              "font-size": "48px"
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "30px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#ebbd18"
+            },
+            "SPAN": {
+              "font-size": "20px"
             }
           }
         }
