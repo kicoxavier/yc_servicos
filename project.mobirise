@@ -54,9 +54,9 @@
             "showArrow": false,
             "imageSize": "42",
             "countdown": "2020/09/01",
-            "animText1": "O MOTORISTA",
-            "animText2": "A TELEFONISTA",
-            "animText3": "O PORTEIRO",
+            "animText1": "",
+            "animText2": "",
+            "animText3": "",
             "typeSpeed": 60,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x855.jpg",
@@ -71,8 +71,8 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.8"
           },
-          "title": "ENCONTRE&nbsp;",
-          "title2": "ENCONTRE SERVIÇOS PROFISSIONAIS!<br>",
+          "title": "",
+          "title2": "ENCONTRE SERVIÇOS <br>PROFISSIONAIS!<br>",
           "text": "<span style=\"font-style: normal;\"><b>(51) 99728-2050 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ycservicosltda@gmail.com</b></span>&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
